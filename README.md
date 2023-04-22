@@ -1,0 +1,2 @@
+# Social-Media-App
+The aim of this project is to create a website for social media management using the MVC (Model View Controller) architecture. The MVC pattern is realized with the Spring MVC framework, which separates the presentation, business, and data access layers. The data access layer uses Hibernate, an object-relational mapping tool that simplifies database operations. The database system is MySQL RDBMS, which stores the user profiles, posts, and photos. The website allows users to view and manage their profiles, and post updates and photos.
